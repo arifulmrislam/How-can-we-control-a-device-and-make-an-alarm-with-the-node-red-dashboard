@@ -4,7 +4,9 @@ And I make a function that when I select the manual mode that time the active an
 In the meantime, I use a colour function node when I select manual and change the button, it will also change the colour status. We can easily find out what is going on in the system.
 
 
-<img src= "Node-red Chiller_Machine control flow.png" width=800> 
+<img src= "Node-red Chiller_Machine control flow.png" width=800>
+
+<img src= "Chiller_Machine control by dashboard.png" width=800> 
 
  
 I also create an alarm dashboard where I tried to show the real status of the device.
@@ -20,5 +22,4 @@ Here is the alarm node-red flow.
 Like, if the temperature range is below 50 then it will show normal mode and the colour will be lime. If the temperature range from 50 to 70, that time it will show major and colour will be yellow. But the temperature range more than 70 and below 100 then it will show red. 
 Final looks of the dashboard where I tried to show current dates and times also.
 
-
-<img src= "Chiller_Machine control by dashboard.png" width=800> 
+<img src= "Final dashboard.png" width=800> 
