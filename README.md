@@ -16,4 +16,4 @@ Like, if the temperature range is below 50 then it will show normal mode and the
 Final looks of the dashboard where I tried to show current dates and times also.
 
 
-![](Chiller_Machine control by dashboard.png)
+<img src= "Chiller_Machine control by dashboard.png" width=800> 
