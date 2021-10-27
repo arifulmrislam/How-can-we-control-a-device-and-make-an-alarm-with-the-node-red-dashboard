@@ -2,7 +2,6 @@
 Here, I try to show how to generate random data in two ways for two types of temperature. One is by the node which is called a random node and another one is the function node. We have to write code in JavaScript.
 And I make a function that when I select the manual mode that time the active and inactive button will work. But when I select schedule mode that time the button means the active and inactive buttons will not work. 
 In the meantime, I use a colour function node when I select manual and change the button, it will also change the colour status. We can easily find out what is going in the system.
-
 ![](Node-red Chiller_Machine control flow.png)
 
  
