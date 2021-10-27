@@ -4,7 +4,7 @@ And I make a function that when I select the manual mode that time the active an
 In the meantime, I use a colour function node when I select manual and change the button, it will also change the colour status. We can easily find out what is going in the system.
 
 
-![](Node-red Chiller_Machine control flow.png)
+![](Alarm.png)
 
  
 I also create an alarm dashboard where I tried to show the real status of the device.
