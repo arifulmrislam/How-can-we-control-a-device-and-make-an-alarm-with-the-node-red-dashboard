@@ -23,3 +23,11 @@ Like, if the temperature range is below 50 then it will show normal mode and the
 Final looks of the dashboard where I tried to show current dates and times also.
 
 <img src= "Final dashboard.png" width=1000> 
+
+🚩 Connect with me on social
+- LinkedIn: https://www.linkedin.com/in/ariful-islam-arif-2987b51a3/
+- Twitter: https://twitter.com/arifulislam301
+- Instagram: https://www.instagram.com/ariful_mr_islam/
+
+🔔 Subscribe to my YouTube channel
+https://www.youtube.com/channel/UCED68cm6nHaAlAk0h9I3yAQ
